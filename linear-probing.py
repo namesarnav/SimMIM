@@ -1,6 +1,5 @@
 
 
-# 6. Linear Probing Evaluation (as a separate function)
 def linear_probing(model, pretrain_epochs, image_size=224, batch_size=64):
     """
     Performs linear probing evaluation on the pre-trained model.
